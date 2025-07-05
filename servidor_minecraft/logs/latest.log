@@ -108,3 +108,12 @@
 [22:26:36] [Worker-Main-1/INFO]: Preparing spawn area: 56%
 [22:26:39] [Server thread/INFO]: Time elapsed: 45634 ms
 [22:26:39] [Server thread/INFO]: Done (57.224s)! For help, type "help"
+[22:36:25] [Server thread/INFO]: lKingKevin[/127.178.108.4:38445] logged in with entity id 319 at (70.5, 68.0, -54.5)
+[22:36:25] [Server thread/INFO]: lKingKevin joined the game
+[22:37:49] [Server thread/INFO]: Set the time to 1000
+[22:38:06] [Server thread/INFO]: Made lKingKevin a server operator
+[22:38:10] [Server thread/INFO]: [lKingKevin: Set own game mode to Creative Mode]
+[22:39:09] [Server thread/INFO]: lKingKevin lost connection: Disconnected
+[22:39:09] [Server thread/INFO]: lKingKevin left the game
+[22:43:50] [Server thread/INFO]: lKingKevin[/127.178.108.4:42993] logged in with entity id 1927 at (-353.69999998807907, 75.0, 106.99464696199182)
+[22:43:50] [Server thread/INFO]: lKingKevin joined the game
